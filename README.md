@@ -1,9 +1,10 @@
 ### Hi there 👋
+I am Anuj Kumar Prasad, aspiring to be a Web Developer. Currently, I am studying at University of Calcutta.
 
 <!--
 **prasadanuj36/prasadanuj36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on Web Development skills
 - 🌱 I’m currently learning Python and Web Development
@@ -14,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Flameheart
 - ⚡ Fun fact: I finished 930 One Piece episodes in a month !!
 
-  ![Anuj Github Stats]
+  ![Anuj's Github Stats]
    (https://github-readme-stats.vercel.app/api?username=prasadanuj36&show_icons=true&theme=kyonight)
