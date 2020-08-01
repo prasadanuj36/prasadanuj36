@@ -13,3 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ikurosaki646@gmail.com , https://www.linkedin.com/in/prasadanuj36/
 - 😄 Pronouns: Flameheart
 - ⚡ Fun fact: I finished 930 One Piece episodes in a month !!
+
+  ![Anuj Github Stats]
+   (https://github-readme-stats.vercel.app/api?username=prasadanuj36&show_icons=true&theme=kyonight)
