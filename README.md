@@ -15,5 +15,4 @@ I am Anuj Kumar Prasad, aspiring to be a Web Developer. Currently, I am studying
 - 😄 Pronouns: Flameheart
 - ⚡ Fun fact: I finished 930 One Piece episodes in a month !!
 
-  ![Anuj's Github Stats]
-   (https://github-readme-stats.vercel.app/api?username=prasadanuj36&show_icons=true&theme=kyonight)
+  ![Anuj's Github Stats](https://github-readme-stats.vercel.app/api?username=prasadanuj36&show_icons=true&theme=kyonight)
