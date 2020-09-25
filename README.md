@@ -15,4 +15,15 @@ I am Anuj Kumar Prasad, aspiring to be a Web Developer. Currently, I am studying
 - 😄 Pronouns: Flameheart
 - ⚡ Fun fact: I finished 930 One Piece episodes in a month !!
 
-  ![Anuj's Github Stats](https://github-readme-stats.vercel.app/api?username=prasadanuj36&show_icons=true&theme=tokyonight)
+<!-- <a href="https://github.com/prasadanuj36/prasadanuj36">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prasadanuj36&repo=prasadanuj36" />
+</a>
+<a href="https://github.com/prasadanuj36/prasadanuj36">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prasadanuj36&repo=convoychat" />
+</a> -->
+![Anuj's Github Stats](https://github-readme-stats.vercel.app/api?username=prasadanuj36&show_icons=true&theme=tokyonight)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasadanuj36&layout=compact&hide=ruby&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=prasadanuj36)](https://github.com/anuraghazra/github-readme-stats)   -->
+
+ 
