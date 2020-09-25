@@ -11,7 +11,7 @@ I am [Anuj Kumar Prasad](https://anujkumarprasad.netlify.app), aspiring to be a 
 - 👯 I’m looking to collaborate on Web Development Projects.
 - 🤔 I’m looking for help with Python and Javascript programming.
 - 💬 Ask me about Python, JavaScript or anything related to Web Development and Python Programming.
-- 📫 How to reach me: prasadanuj36@gmail.com , https://www.linkedin.com/in/prasadanuj36/
+
 - 😄 Pronouns: Flameheart
 - ⚡ Fun fact: I finished 930 One Piece episodes in a month !!
 
@@ -20,6 +20,8 @@ I am [Anuj Kumar Prasad](https://anujkumarprasad.netlify.app), aspiring to be a 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br><br>
 
 
 ![Anuj's Github Stats](https://github-readme-stats.vercel.app/api?username=prasadanuj36&show_icons=true&theme=tokyonight)
