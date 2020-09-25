@@ -11,7 +11,7 @@ I am Anuj Kumar Prasad, aspiring to be a Web Developer. Currently, I am studying
 - 👯 I’m looking to collaborate on Web Development Projects.
 - 🤔 I’m looking for help with Python and Javascript programming.
 - 💬 Ask me about Python, JavaScript or anything related to Web Development and Python Programming.
-- 📫 How to reach me: ikurosaki646@gmail.com , https://www.linkedin.com/in/prasadanuj36/
+- 📫 How to reach me: prasadanuj36@gmail.com , https://www.linkedin.com/in/prasadanuj36/
 - 😄 Pronouns: Flameheart
 - ⚡ Fun fact: I finished 930 One Piece episodes in a month !!
 
